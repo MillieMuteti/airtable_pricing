@@ -1,3 +1,2 @@
-# Basic HTML Card
-
-## Duplicate any card on [Airtable]https://airtable.com/pricing and submit the link to Github repository
+# Airtable pricing project
+# Author: Millie Muteti
